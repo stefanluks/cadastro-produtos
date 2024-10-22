@@ -3,6 +3,15 @@
 
 #### Passo a passo para a execução do script:
 
+_METÓDO ATRAVÉS DO GITHUB_
+- 1º Digite "CMD" e pressione "Enter"
+- 2º Digite o seguinte comando e pressione enter: "git clone https://github.com/stefanluks/cadastro-produtos.git"
+- 3º Em seguida o comando: "cd cadastro-produtos"
+- 4º Abra o navegador Chrome
+- 5º Novamente no CMD digite o comando: "python script.py"
+
+O programa deve iniciar e executar todos os comandos corretamente.
+
 _METÓDO CASO NÃO POSSUA O PYTHON_
 
 - 1º Acesse o site o https://www.python.org/downloads/
