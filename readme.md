@@ -1,5 +1,8 @@
 ## Cadastro de Produtos
 ### Automação com python
+Automação de tarefas com python:
+preenchimento de formulário de forma automática, com dados de uma planilha/doc .CSV.
+
 
 #### Passo a passo para a execução do script:
 
