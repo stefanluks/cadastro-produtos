@@ -3,6 +3,7 @@
 Automação de tarefas com python:
 preenchimento de formulário de forma automática, com dados de uma planilha/doc .CSV.
 
+VIDEO AULA: [https://youtu.be/_nI4DA3GRMM?si=7EnNJCB3sMY4ottf](url)
 
 #### Passo a passo para a execução do script:
 
